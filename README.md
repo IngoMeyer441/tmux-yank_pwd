@@ -7,7 +7,7 @@ A tmux plugin for copying the current pane working directory to the system clipb
 
 1.  Add
     ```
-    set -g @plugin 'IngoHeimbach/tmux-yank_pwd'
+    set -g @plugin 'IngoMeyer441/tmux-yank_pwd'
     ```
     to your `.tmux.conf`.
 
